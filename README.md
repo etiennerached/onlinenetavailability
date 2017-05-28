@@ -1,5 +1,5 @@
 # onlinenetavailability
-PHP Script to auto check the availability of online.net stock servers
+A PHP Script that will auto check the availability of online.net stock servers and send an email once a server is available.
 
 How To Use:
 1- Open the file and configure the "configuration" section
